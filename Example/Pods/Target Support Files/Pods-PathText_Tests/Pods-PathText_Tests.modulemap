@@ -1,0 +1,6 @@
+framework module Pods_PathText_Tests {
+  umbrella header "Pods-PathText_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module PathText {
+  umbrella header "PathText-umbrella.h"
+
+  export *
+  module * { export * }
+}

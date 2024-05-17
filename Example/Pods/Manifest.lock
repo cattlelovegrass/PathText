@@ -1,0 +1,16 @@
+PODS:
+  - PathText (0.1.0)
+
+DEPENDENCIES:
+  - PathText (from `../`)
+
+EXTERNAL SOURCES:
+  PathText:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PathText: 39e7564bf0b01774c5cc5b3457555bc7bf3d8f6d
+
+PODFILE CHECKSUM: 1c57b3a5c3716d793cad340f8f8a3a697e28a192
+
+COCOAPODS: 1.13.0
